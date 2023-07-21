@@ -2,14 +2,6 @@
 
 # SparLiang
 
-
-
-## Quick Setup + Deploy Option
-
-Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/hugo-quickstart)
-
 ## Regular Setup
 
  ### 1. Cloning + Running Locally
@@ -26,19 +18,8 @@ Click this button and it will help you create a new repo, create a new Netlify p
 
   > Alternatively, you can run this locally with [the Netlify CLI](https://docs.netlify.com/cli/get-started/)'s by running the `netlify dev` command for more options like receiving a live preview to share (`netlify dev --live`) and the ability to test [Netlify Functions](https://www.netlify.com/products/functions) and [redirects](https://docs.netlify.com/routing/redirects/). 
 
-  ### 2. Deploying
-  - Install the Netlify CLI globally `npm install netlify-cli -g`
-    
-  - Run `hugo`
 
-  - Then use the `netlify deploy` for a deploy preview link or `netlify deploy --prod` to deploy to production
-
-  Here are a few other ways you can deploy this template:
-    
-  - Use the Netlify CLI's create from template command `netlify sites:create-template hugo-quickstart` which will create a repo, Netlify project, and deploy it
-    
-  - If you want to utilize continuous deployment through GitHub webhooks, run the Netlify command `netlify init` to create a new project based on your repo or `netlify link` to connect your repo to an existing project
-
+ 
 ## Styling
 
 We've added some modern styling to this template using Sass within an external stylesheet, this will allow you to easily remove our styling and add in your own. 
