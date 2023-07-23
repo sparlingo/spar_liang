@@ -6,4 +6,4 @@ image: ike.JPG
 tags: ['family']
 ---
 
-Want to see some picture of my kids? Well here they are!
+# Want to see some picture of my kids?
