@@ -8,3 +8,6 @@ paginate = 12
 logo = ""
 faviconsDir = "images/icons/"
 blogDir = "posts"
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'

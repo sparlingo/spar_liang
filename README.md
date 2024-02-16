@@ -26,7 +26,3 @@ If you decide that our styling is not for you, all you'll need to do is remove t
 Here are some resources to help you on your Hugo + Netlify coding fun!
 
 - [Hugo on Netlify Integration Page](https://ntl.fyi/3P9w1mr)
-
-
-Hope this template helps :) Happy coding 👩🏻‍💻!
-
