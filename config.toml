@@ -1,7 +1,7 @@
 baseURL = 'https://sparliang.netlify.app/'
 languageCode = 'en-us'
 title = 'SparLiang Family'
-theme = ["newsroom", "hugo-shortcode-gallery"]
+theme = ["hugo-video", "newsroom", "hugo-shortcode-gallery"]
 author = "Kevin Sparling"
 canonifyurls = true
 paginate = 12
