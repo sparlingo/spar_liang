@@ -1,0 +1,13 @@
+baseURL = 'https://sparliang.netlify.app/'
+languageCode = 'en-us'
+title = 'SparLiang Family'
+theme = ["hugo-video", "newsroom", "hugo-shortcode-gallery"]
+author = "Kevin Sparling"
+canonifyurls = true
+paginate = 12
+logo = ""
+faviconsDir = "images/icons/"
+blogDir = "posts"
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
